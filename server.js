@@ -44,3 +44,10 @@ app.post("/store-goal", (req, res) => {
 });
 
 app.listen(80);
+const app1 = () => {
+    console.log("hi there ")
+}
+const HI = () => {
+    console.log("hi there ")
+
+}
